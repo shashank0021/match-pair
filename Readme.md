@@ -3,7 +3,7 @@
 Welcome to the JavaScript Pair Matching Game repository! This interactive web game challenges your memory as you uncover cards to find matching pairs. 🎮
 
 
-![Screenshot 2023-09-01 223430](https://github.com/shashank0021/match-pair/tree/215a59c9c3bd8673c90623031547f56f20f73c48/screenshot)
+![Screenshot](https://github.com/shashank0021/match-pair/blob/18268569fd4e03397011f433813bafb798a3507d/screenshot/Screenshot%202024-07-11%20224830.png)
 
 
 ## Demo
