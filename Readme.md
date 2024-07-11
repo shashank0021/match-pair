@@ -3,12 +3,12 @@
 Welcome to the JavaScript Pair Matching Game repository! This interactive web game challenges your memory as you uncover cards to find matching pairs. 🎮
 
 
-![Screenshot 2023-09-01 223430]()
+![Screenshot 2023-09-01 223430](https://github.com/shashank0021/match-pair.git)
 
 
 ## Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://github.com/shashank0021/match-pair/tree/215a59c9c3bd8673c90623031547f56f20f73c48/screenshot).
 
 ## How to Play 📝
 
